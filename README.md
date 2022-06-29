@@ -4,6 +4,16 @@
 Explain the purpose of this analysis. Taking the 2017 and 2018 stock market data and getting the results of their Total Daily Volume and Return all within VBA Excel. To get an accurate representation of this data I refactored the code from the begining part of the worksheet to preform both 2017 and 2018 results.
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+![runtime2017](https://user-images.githubusercontent.com/98365309/176345324-7c25258f-1bce-43eb-bf4c-f7411bc7f44b.png)
+![runtime2018](https://user-images.githubusercontent.com/98365309/176345343-83af204e-11a0-459f-86f6-a7318b36ca1d.png)
+
+![time ran for 2017](https://user-images.githubusercontent.com/98365309/176345372-e80b1837-4aeb-4822-9b18-c509ea90c47a.png)
+![time ran for 2018](https://user-images.githubusercontent.com/98365309/176345394-43141628-0f5b-4f93-916f-69976880161c.png)
+
+![2017table](https://user-images.githubusercontent.com/98365309/176345445-78fd2278-a49c-4c8b-a767-f50b902519f8.png)
+![2018table](https://user-images.githubusercontent.com/98365309/176345462-cd13168e-6d3d-4c8a-9c48-39e1a1b0019c.png)
+
+
 ## Summary 
 In this project the first set of code had to be refactored 
 ### What are the advantages or disadvantages of refactoring code?
